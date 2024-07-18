@@ -1,6 +1,6 @@
 locals {
   project_extension = "dto"
-  env_name          = "np"
+  env_name          = ""
   app_owner         = "devops"
   project_name      = ""
   env_location      = ""
