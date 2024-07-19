@@ -1,6 +1,6 @@
 locals {
   project_name                              = ""
-  env_name                                  = "np"
+  env_name                                  = ""
   vnet_cidr                                 = [""]
   env_location                              = ""
   project_extension                         = "dto"
